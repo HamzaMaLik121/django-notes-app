@@ -24,3 +24,4 @@ COPY . .
 EXPOSE 8000
 
 # Run migrations automatically, then start the server
+CMD python /app/backend/manage.py runserver 0.0.0.0:8000
