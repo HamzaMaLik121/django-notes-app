@@ -29,3 +29,4 @@ Install Nginx reverse proxy to make this application available
 `sudo apt-get update`
 `sudo apt install nginx`
 im among of those who are billionaires
+how are you 
